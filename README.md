@@ -4,11 +4,13 @@
 
 力扣180+题，熟悉开发中常用的数据结构，比如数组，List，Map，链表等。
 
-熟悉Java基础，如集合、Java8的新特性，可以在开发中熟练使用Stream操作集合提升效率。
+熟悉Java基础，如集合、Java8的新特性，可以在开发中熟练使用Stream、Lambda提升开发效率。
 
 熟悉MySQL，如索引、事务隔离级别等。可以使用explain对SQL语句进行分析、优化。
 
-能够使用Spring Cloud Alibaba进行开发。
+能够使用Spring Cloud Alibaba进行开发，会用Nacos、Open Feign等微服务组件。
+
+了解Redis的基本使用，如基本的数据类型、实现Session共享、解决缓存穿透、击穿等。
 
 熟悉Git、Maven等项目管理工具，有良好的commit、code习惯。
 
